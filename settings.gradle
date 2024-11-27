@@ -1,0 +1,3 @@
+rootProject.name = 'educational-material'
+include 'strorage-material'
+
